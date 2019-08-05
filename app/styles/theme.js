@@ -20,10 +20,10 @@ const fontSize = {
 }
 
 const helvetica = {
-    bold: "HelveticaNeue-Bold",
-    //medium: "HelveticaNeue-Medium",
-    regular: "Helvetica Neue",
-    light: "HelveticaNeue-Light"
+    bold: "Roboto",
+    medium: "Roboto",
+    regular: "Roboto",
+    light: "Roboto"
 }
 
 const fontFamily = helvetica;
